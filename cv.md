@@ -3,6 +3,7 @@
 ## Contact Me:
 - Cell: +7 (707) 893-18-25
 - yessetkhan@gmail.com 
+- [LinkedIn](https://www.linkedin.com/in/yesset-zhakenov/)
 
 ## Executive Summary:
 I am a BI dev with good analytic experience. 
