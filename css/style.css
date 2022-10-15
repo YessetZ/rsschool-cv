@@ -1,0 +1,202 @@
+html {
+	background-color: #ffffff;
+}
+body {
+	font-family: 'Heebo', sans-serif;
+	font-size: 100%;
+	color: #21243D;
+	max-width: 1152px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%;
+}
+h1 {
+	padding-top: 0.5em;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 44px;
+	line-height: 60px;
+	padding-bottom: 0.2em;
+}
+h2 {
+	font-style: normal;
+	font-weight: 400;
+	font-size: 22px;
+	line-height: 60px;
+}
+h3 {
+	font-style: normal;
+	font-weight: 700;
+	font-size: 26px;
+	line-height: 38px;
+	padding-top: 0.4em;
+	padding-bottom: 0.1em;
+}
+
+/* Header styles ------------------------------------------ */ 
+header {
+	transition: .2s linear;
+	padding-bottom: 20px;
+	z-index: 999;
+	padding: 0 15% 0 15%;
+}
+header nav {
+	display: flex;
+	margin-top: 20px;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 29px;
+	float: right;
+}
+header nav ul {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: flex-end;
+	justify-content: space-between;
+}
+header nav ul li {
+	margin-right: 50px;
+}
+header nav ul li:last-child {
+	margin-right: 0;
+}
+header nav ul a {
+	text-decoration: none;
+	color: #21243D;
+}
+header nav ul a:hover, a:focus, a:active {
+	opacity: .75;
+}
+
+/* Main section styles ------------------------------------------ */ 
+main {
+	padding: 5% 15% 0 15%;
+}
+
+/* Welcome section styles ------------------------------------------ */ 
+.welcome {
+	margin-top: 80px;
+	display: grid;
+	grid-template-columns:  repeat(2, 1fr);
+}
+.welcome p {
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 24px;
+}
+.photo {
+	margin: 0;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+/* Summary section styles ------------------------------------------ */ 
+.summary {
+	margin-top: 80px;
+	padding: 2em 2em 3em 2em;
+	background-color: #EDF7FA;
+}
+.summary p {
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 24px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: justify;
+}
+
+/* History section styles ------------------------------------------ */ 
+.history {
+	margin-top: 80px;
+	padding: 2em 2em 3em 2em;
+}
+.history-font {
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 24px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: justify;
+}
+
+/* Education section styles ------------------------------------------ */ 
+.education {
+	margin-top: 80px;
+	padding: 2em 2em 3em 2em;
+	background-color: #EDF7FA;
+	/*border: 3px solid #931420;*/
+}
+.skills p {
+	text-align: center;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 24px;
+	text-align: justify;
+}
+.degree {
+	padding-top: 0.4em;
+}
+.degree p {
+	text-align: center;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 24px;
+	text-align: justify;
+}
+.trainings {
+	padding-top: 0.4em;
+}
+.trainings ul li {
+	text-align: center;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 24px;
+	text-align: justify;
+}
+.code {
+	padding-top: 0.4em;
+}
+
+/* Contacts section styles ------------------------------------------ */ 
+.contacts {
+	padding-top: 0.4em;
+	text-align: center;
+}
+
+/* Footer section styles ------------------------------------------ */
+footer {
+	margin-top: 80px;
+	margin-bottom: 20px;
+}
+footer nav {
+	display: flex;
+	margin-top: 20px;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 29px;
+	text-align: center;
+}
+footer nav ul {
+	margin-left: auto;
+	margin-right: auto;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: flex-end;
+	justify-content: space-between;
+}
+footer nav ul li {
+	margin-right: 50px;
+}
+footer nav ul li a img {
+	width: auto;
+	height: 32px;
+}
