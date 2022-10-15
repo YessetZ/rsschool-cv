@@ -1,15 +1,10 @@
 # Yessetkhan Zhakenov
-
 ## Contact Me:
 - Cell: +7 (707) 893-18-25
 - yessetkhan@gmail.com 
-- [LinkedIn](https://www.linkedin.com/in/yesset-zhakenov/)
-
 ## Executive Summary:
-I am a BI dev with good analytic experience. 
-I participated in various projects from the analysis of website conversion to the development of trading programs, financial calculators and creating consolidated financial statements. 
-Now I am looking for an opportunity to develop as a front-end develloper or software engineer.
-
+Hi, my full name is Yessetkhan Zhakenov. 
+I am a committed Power BI developer with good analytic experience, and I participated in various projects from the analysis of website conversion to the development of trading programs and financial calculators, and creating consolidated financial statements. Also studying Web Frontend Development, in the future I plan to grow in web development and cloud solutions.
 ## Professional History:
 ### TENGIZCHEVROIL
 March 2021 - current 
@@ -35,20 +30,17 @@ October 2016 - April 2018
 October 2014 - September 2016
 - Selling banking products to SMBs
 - Analysis of the financial condition of customers
-
 ## Skills
 SQL, C#, JavaScript, HTML, CSS, GIT
 Power BI, PowerApps, Power Automate
 ## Academic Background:
 K. ZHUBANOV AKTOBE REGIONAL STATE UNIVERSITY
 Accounting and Auditing, 2010-2013
-
 ### Trainings
-- JS/Front-end development, RSSchool
+- Web Frontend development, RSSchool
 - .Net Core, Epam Learn
 - Financial analysis of the EBRD technology
 - Management and application of innovative technologies in the enterprise
-
 ## Code Example
 ```
 let n1 = 0, n2 = 1, nextTerm;
@@ -59,6 +51,5 @@ for (let i = 1; i <= num; i++) {
     n2 = nextTerm;
 }
 ```
-
 #### Languages
 English - level B1, participated in international projects
