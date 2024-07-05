@@ -1,50 +1,36 @@
 # Yessetkhan Zhakenov
 
 ## Contact Me:
-- Cell: +7 (707) 893-18-25
+- Cell: +1 (908) 966-24-53
 - yessetkhan@gmail.com 
-- [LinkedIn](https://www.linkedin.com/in/yesset-zhakenov/)
 
 ## Executive Summary:
-I am a BI dev with good analytic experience. 
-I participated in various projects from the analysis of website conversion to the development of trading programs, financial calculators and creating consolidated financial statements. 
-Now I am looking for an opportunity to develop as a front-end develloper or software engineer.
+Hi, my full name is Yessetkhan Zhakenov. 
+I am a committed Power BI developer with good data analysis experience, and participated in various projects from the analysis of website conversion to the development of trading programs and financial calculators, creating consolidated financial statements. I'm studying Web Frontend Development, in the future I plan to grow in web development and cloud solutions.
 
 ## Professional History:
+### INSIGHT GLOBAL
+March 2023 - current
+- Report development on Power BI
+- Working with the Rest API
+- Data pipeline development on Azure
+
 ### TENGIZCHEVROIL
-March 2021 - current 
-- Develop reports on Power BI
-- Develop apps on PowerApps (model - driven)
-### KIPROS
-March 2019 - March 2021
-- Development of financial statements on the Power BI platform
-- Project management
-### JTI
-September 2018 - March 2019
-- Development of trading programs
-- Analytical support of the sales and marketing departments
-### HOME CREDIT BANK
-May 2018 - September 2018
-- Financial analysis of banking products and activities
-- Development of a calculator of LTV
-### ASPEX
-October 2016 - April 2018
-- Development of dashboards on the Power BI platform
-- Project management
-### CENTERCREDIT BANK
-October 2014 - September 2016
-- Selling banking products to SMBs
-- Analysis of the financial condition of customers
+March 2021 - February 2023 
+- Report development on Power BI
+- CRM development on PowerApps (model - driven)
+- Data pipeline development on Azure
 
 ## Skills
-SQL, C#, JavaScript, HTML, CSS, GIT
-Power BI, PowerApps, Power Automate
-## Academic Background:
+SQL, C#, JavaScript, HTML, CSS, GIT, Python
+Power BI, PowerApps, Power Automate, Azure
+
+## Education:
 K. ZHUBANOV AKTOBE REGIONAL STATE UNIVERSITY
 Accounting and Auditing, 2010-2013
 
 ### Trainings
-- JS/Front-end development, RSSchool
+- Web Frontend development, RSSchool
 - .Net Core, Epam Learn
 - Financial analysis of the EBRD technology
 - Management and application of innovative technologies in the enterprise
@@ -59,6 +45,5 @@ for (let i = 1; i <= num; i++) {
     n2 = nextTerm;
 }
 ```
-
 #### Languages
-English - level B1, participated in international projects
+English - level B2
